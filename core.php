@@ -1,4 +1,4 @@
 <?php
 echo "test";
-//bad idea
+//bad idea.
 ?>
